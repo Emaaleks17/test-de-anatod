@@ -1,0 +1,1 @@
+No trabaje con el programa sql, lo trabaje desde phpmyadmin (importando igualmente el archivo .sql), y utilizando el programa xampp.. por lo que debi cambiar el usuario y server de "class.database.php" y modifique la conexion para poder trabajar.
